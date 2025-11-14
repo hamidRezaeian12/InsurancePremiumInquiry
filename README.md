@@ -13,3 +13,6 @@ The system uses EF Core for data access, PostgreSQL as the database, and follows
 - Domain-Driven Design (DDD)
 - Repository Pattern
 - Aggregate Root & Value Objects
+- API Versioning
+- Mediator
+- Clean Architecture
